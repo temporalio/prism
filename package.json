@@ -70,7 +70,7 @@
 		"scslre": "^0.1.6",
 		"simple-git": "^1.107.0",
 		"webfont": "^9.0.0",
-		"yargs": "^13.2.2"
+		"yargs": "^15.0.0"
 	},
 	"jspm": {
 		"main": "prism",
