@@ -69,7 +69,7 @@
 		"regexpp": "^3.2.0",
 		"scslre": "^0.1.6",
 		"simple-git": "^1.107.0",
-		"webfont": "^9.0.0",
+		"webfont": "^11.0.0",
 		"yargs": "^13.2.2"
 	},
 	"jspm": {
