@@ -44,7 +44,7 @@
 		"danger": "^10.5.0",
 		"del": "^4.1.1",
 		"docdash": "^1.2.0",
-		"eslint": "^7.22.0",
+		"eslint": "^8.0.0",
 		"eslint-plugin-jsdoc": "^32.3.0",
 		"eslint-plugin-regexp": "^1.4.0",
 		"gulp": "^4.0.2",
